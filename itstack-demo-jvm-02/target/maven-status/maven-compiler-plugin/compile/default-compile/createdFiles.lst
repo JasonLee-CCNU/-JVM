@@ -1,0 +1,8 @@
+org\itstack\demo\jvm\classpath\Classpath.class
+org\itstack\demo\jvm\classpath\impl\ZipEntry.class
+org\itstack\demo\jvm\classpath\Entry.class
+org\itstack\demo\jvm\classpath\impl\CompositeEntry.class
+org\itstack\demo\jvm\Main.class
+org\itstack\demo\jvm\Cmd.class
+org\itstack\demo\jvm\classpath\impl\DirEntry.class
+org\itstack\demo\jvm\classpath\impl\WildcardEntry.class
